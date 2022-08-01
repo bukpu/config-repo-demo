@@ -3,3 +3,7 @@ info1:
   from: git
   
 test: bbb
+
+person: 
+  name: bukpu
+  password: aasd
