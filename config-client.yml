@@ -6,7 +6,7 @@ test: bbb
 
 person: 
   name: bukpu
-  password: dba6505baa81d78bd08799d8d4429de499bd4c2053c05f029e7cfbf143695f5b
+  password: ba6505baa81d78bd08799d8d4429de499bd4c2053c05f029e7cfbf143695f5b
 #   {cipher}AQA+Su7MzZ3ip6LtyZ4Rby5f/+s4dgOnZrMjRRegErOUBi32doqjq6jkbc6cVIhW8BNJysVr80kT+wDC73aFgMwvS/Ue2JChxuC2bXXw9k2xyJxhq04+l/+nZPiaX9q4klg8yckBOAe8/460bv5CMkkyFBzzn8nXeQllyVtoQkQTJCHZPR8Kud20dAYPcCTmDDrUNV3yPGA8DRMMcPwf5SrkafggmCFrGpht60t/ANqnKgXskU0WZh6VvnfFl0erPm8EnMm+5AlaLLGNNe3hHgU4o/AdPRgH6VmNe1akJaYHp3mcAzRcIk7I0ILIvZnoOgxmDtiZ9ygKGNpoeLfrSdcoaLhRFXtzf7k/XrXCzXbVLxO5bxyg+BPNTOys/xUo8vU=
 from: git
 
